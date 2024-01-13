@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<stdlib.h>
+main(){
+printf("oi\n");
+puts("oi\n");
+printf("oi\n");
+puts("oi\n");
+printf("oi\n");
+puts("oi\n");
+printf("oi\n");
+puts("oi\n");
+printf("oi\n");
+puts("oi\n");
+system("pause");
+system("cls");
+}
